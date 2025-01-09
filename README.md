@@ -14,16 +14,16 @@
 
 </div>
 
-
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tobie-Rathbun&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-  
-  <!-- Top Languages -->
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobie-Rathbun&layout=compact&theme=midnight-purple&title_color=FFD700" alt="Top Languages" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobie-Rathbun&layout=compact&theme=midnight-purple&title_color=FFD700" 
+    alt="Top Languages" 
+    height="170" 
+    />
 </div>
+
+
 
 
 
