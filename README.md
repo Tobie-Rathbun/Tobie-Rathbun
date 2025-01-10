@@ -8,7 +8,7 @@
 
 ### 🚀 Quick Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://portfolio.tobie-developer.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobie-rathbun-00320bb4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobie-rathbun20bb4/)
 [![Games](https://img.shields.io/badge/🎮Games-4B0082?style=for-the-badge)](https://tobie-developer.com/)
 
 
