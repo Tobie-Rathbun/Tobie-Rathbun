@@ -40,17 +40,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tobie-Rathbun&theme=react-dark&color=FFD700&line=4B0082&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 🎯 Current Projects
-<div align="center">
-  <!-- Card 1 -->
-  <a href="https://github.com/Tobie-Rathbun/React-Games">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tobie-Rathbun&repo=React-Games&theme=midnight-purple&title_color=FFD700" alt="React Tailwind Vite Example Site">
-  </a>
-  <!-- Card 2 -->
-  <a href="https://github.com/Tobie-Rathbun/React-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tobie-Rathbun&repo=React-Portfolio&theme=midnight-purple&title_color=FFD700" alt="React Portfolio Next.js">
-  </a>
-</div>
+
 
 
 
