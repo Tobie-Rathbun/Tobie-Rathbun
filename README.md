@@ -41,7 +41,17 @@
 
 
 
-
+## 🎯 Current Projects
+<div align="center">
+  <!-- Card 1 -->
+  <a href="https://github.com/Tobie-Rathbun/React-Games">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tobie-Rathbun&repo=React-Games&theme=midnight-purple&title_color=FFD700" alt="React Tailwind Vite Example Site">
+  </a>
+  <!-- Card 2 -->
+  <a href="https://github.com/Tobie-Rathbun/React-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tobie-Rathbun&repo=React-Portfolio&theme=midnight-purple&title_color=FFD700" alt="React Portfolio Next.js">
+  </a>
+</div>
 
 
 
