@@ -60,11 +60,6 @@
   <img src="https://komarev.com/ghpvc/?username=Tobie-Rathbun&color=4B0082&style=flat-square" alt="Profile Views" />
 </div>
 
-
----
-
-### 💫 Let's Connect!
 <div align="center">
-<p>Hit me with a follow! I'll follow back 😊</p>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Image" />
 </div>
